@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.row {
+  padding: 5px; }
+
+/*Left Section Start*/
+#leftSection {
+  margin-top: 20px; }
+
+#cdTitle {
+  margin-top: -50px;
+  color: aliceblue; }
+
+#myDetails {
+  padding-top: 30px;
+  list-style: none; }
+
+.bi, .fas {
+  color: #3ead88; }
+
+#skillSection {
+  padding-left: 10px; }
+
+#skillsTitle {
+  padding-left: 10px;
+  font-weight: bold; }
+
+.progress {
+  width: 370px;
+  border-radius: 20%; }
+
+.progress-bar {
+  background-color: #3ead88; }
+
+.barTitle {
+  margin-top: 20px; }
+
+#langTitle {
+  margin-top: 40px; }
+
+#langSection {
+  padding-bottom: 40px;
+  padding-left: 10px; }
+
+/*Left Section End*/
+/* Right Section Start*/
+#rightSectionOne {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding-top: 30px; }
+
+.jobEx {
+  border-bottom: 2px dotted #3ead88;
+  margin-bottom: 20px; }
+
+#rightSectionTwo {
+  margin-bottom: 30px;
+  padding: 30px; }
+
+.eduEx {
+  border-bottom: 2px dotted #3ead88;
+  margin-bottom: 20px; }
+
+.timeSC {
+  color: #3ead88;
+  font-weight: bold; }
+
+/* Right Section End*/
+/* Footer Start */
+#footer {
+  background-color: #3ead88; }
+
+.fContainer {
+  text-align: center;
+  color: white; }
+
+#iconsFooter {
+  color: white; }
+
+/* Footer End */
+
+/*# sourceMappingURL=Lab1.css.map */
